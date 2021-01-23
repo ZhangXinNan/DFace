@@ -3,7 +3,7 @@ import time
 import numpy as np
 import torch
 from torch.autograd.variable import Variable
-from dface.core.models import PNet,RNet,ONet
+from dface.core.models import PNet, RNet, ONet
 import dface.core.utils as utils
 import dface.core.image_tools as image_tools
 
